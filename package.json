@@ -1,0 +1,14 @@
+{
+  "name": "equipo7_ticketazo",
+  "version": "1.0.0",
+  "description": "proyecyo grupal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.2.0"
+  }
+}
